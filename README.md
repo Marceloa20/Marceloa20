@@ -1,9 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  ## Olá! 👋
+  ## Olá! Sejam Bem Vindos👋
 
-  Meu nome é <strong>Marcelo Avinte</strong> e estou me dedicando ao estudo de <strong>Desenvolvimento Web</strong>. Atualmente, estudo tecnologias como **HTML, CSS, Bootstrap, JavaScript, React, Node.js** e **Banco de dados**.
+  <hr>
+
+  <h3 align="center">
+    <a href="https://github.com/Marceloa20">
+  	  <img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Marcelo+Avinte;Sou+estudante+de+Densenvolvimento+Web!&center=true&width=780&height=45">
+    </a>
+  </h3>
+    
+  <hr>
+
+  Atualmente, estudo tecnologias como **HTML, CSS, Bootstrap, JavaScript, React, Node.js** e **Banco de dados**.
 
   Estou sempre praticando e desenvolvendo projetos para aprimorar minhas habilidades. Fique à vontade para explorar meu repositório e acompanhar minha jornada! 🚀
 </p>
