@@ -30,13 +30,18 @@
     
 </p>
 
-<p align="left">
-  💼 Ferramentas: 
-  <p>
-    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" title="Git">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub">
-  </p>
-</p>
+<details> 
+  <summary>💻 Métricas do Perfil/Projetos</summary>
+  <br/>
+    <a href="https://github.com/Marceloa20/github-readme-stats">
+	    <img alt="Marcelo Avinte Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marceloa20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="45%" height="192px"/>
+    </a>
+  <a href="https://github.com/Marceloa20/github-readme-stats">
+	  <img alt="Marcelo Avinte Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marceloa20&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/>
+  </a>
+  <br/>
+  <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens usadas nos projetos que foram publicados, não implicando diretamente na minha experiência e/ou nível de habilidade.
+</details>
 
 ---
 
