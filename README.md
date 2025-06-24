@@ -5,7 +5,7 @@
 
   <hr>
 
-  <h3 align="center">
+  <h3 align="left">
     <a href="https://github.com/Marceloa20">
   	  <img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Marcelo+Avinte;Sou+estudante+de+Densenvolvimento+Web!&center=true&width=780&height=45">
     </a>
